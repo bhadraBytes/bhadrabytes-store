@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore node_modules directories
+node_modules/
+client/node_modules/
+
+# Other entries...
