@@ -40,7 +40,7 @@ const Header = () => {
             <li>Contact Us</li>
           </ul>
           <div className="center" onClick={() => navigate("/")}>
-            STYLE | HUB
+            BhadraBytes Collection
           </div>
           <div className="right"> 
             <TbSearch onClick={() => setShowSearch(true)} />

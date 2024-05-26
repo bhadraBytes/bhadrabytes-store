@@ -1,0 +1,4 @@
+           <div className="app__header-icon">
+              <h3 className="search">Search</h3>
+              <TbSearch className="icon-hover search-icon" />
+            </div>
